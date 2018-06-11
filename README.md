@@ -123,5 +123,5 @@ Common development tasks
 Copyright & License
 -------------------
 
-  * Copyright 2018, Prateek Jain
+  
   * License: MIT
